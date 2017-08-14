@@ -214,7 +214,7 @@ header.masthead {
       font-size: 16px;
       font-style: italic;
       margin: 0;
-      font-family: "Noto Sans SC", "Noto Sans SC Sliced", "Microsoft YaHei", "微軟雅黑", "Times New Roman", "Sans-Serif"; }
+      font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
 #portfolio * {
   z-index: 2; }
@@ -246,7 +246,7 @@ header.masthead {
     font-size: 16px;
     font-style: italic;
     margin: 20px 0 30px;
-    font-family: "Noto Sans SC", "Noto Sans SC Sliced", "Microsoft YaHei", "微軟雅黑", "Times New Roman", "Sans-Serif"; }
+    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;}
   .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px; }
