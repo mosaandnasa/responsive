@@ -9,7 +9,7 @@
 body {
 	
   overflow-x: hidden;
-  font-family: Noto Sans SC, Noto Sans Oriya UI, Microsoft JhengHei, 微軟正黑, Times New Roman, Sans-Serif; }
+  font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif"; }
 
 p {
   line-height: 1.75; }
@@ -26,7 +26,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+  font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
   text-transform: uppercase; }
 
 section {
@@ -41,7 +41,7 @@ section {
     font-style: italic;
     margin-bottom: 75px;
     text-transform: none;
-    font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif; }
+    font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif"; }
 
 @media (min-width: 768px) {
   section {
@@ -74,11 +74,11 @@ body {
     color: white;
     border: 0;
     background-color: #fed136;
-    font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+    font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
   #mainNav .navbar-brand {
     color: #fed136;
-    font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif; }
+    font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif"; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #fec503; }
   #mainNav .navbar-nav .nav-item .nav-link {
@@ -87,7 +87,7 @@ body {
     padding: 0.75em 0;
     letter-spacing: 1px;
     color: white;
-    font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+    font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
       color: #fed136; }
@@ -135,13 +135,13 @@ header.masthead {
       font-style: italic;
       line-height: 22px;
       margin-bottom: 25px;
-      font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif; }
+      font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif"; }
     header.masthead .intro-text .intro-heading {
       font-size: 50px;
       font-weight: 700;
       line-height: 50px;
       margin-bottom: 25px;
-      font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+      font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
       text-transform: uppercase; }
 
 @media (min-width: 768px) {
@@ -153,13 +153,13 @@ header.masthead {
       font-style: italic;
       line-height: 40px;
       margin-bottom: 25px;
-      font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif; }
+      font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif"; }
     header.masthead .intro-text .intro-heading {
       font-size: 75px;
       font-weight: 700;
       line-height: 75px;
       margin-bottom: 50px;
-      font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+      font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
       text-transform: uppercase; } }
 
 .service-heading {
@@ -213,7 +213,7 @@ header.masthead {
       font-size: 16px;
       font-style: italic;
       margin: 0;
-      font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif; }
+      font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif"; }
 
 #portfolio * {
   z-index: 2; }
@@ -245,7 +245,7 @@ header.masthead {
     font-size: 16px;
     font-style: italic;
     margin: 20px 0 30px;
-    font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif; }
+    font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif"; }
   .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px; }
@@ -460,24 +460,24 @@ section#contact {
   section#contact ::-webkit-input-placeholder {
     font-weight: 700;
     color: #eeeeee;
-    font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+    font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
   section#contact :-moz-placeholder {
     font-weight: 700;
     color: #eeeeee;
     /* Firefox 18- */
-    font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+    font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
   section#contact ::-moz-placeholder {
     font-weight: 700;
     color: #eeeeee;
     /* Firefox 19+ */
-    font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+    font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
   section#contact :-ms-input-placeholder {
     font-weight: 700;
     color: #eeeeee;
-    font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+    font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
   section#contact .text-danger {
     color: #e74c3c; }
@@ -489,14 +489,14 @@ footer {
     font-size: 90%;
     line-height: 40px;
     text-transform: none;
-    font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+    font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
   footer ul.quicklinks {
     font-size: 90%;
     line-height: 40px;
     margin-bottom: 0;
     text-transform: none;
-    font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+    font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
 
 ul.social-buttons {
@@ -525,7 +525,7 @@ ul.social-buttons {
   color: white;
   border-color: #fed136;
   background-color: #fed136;
-  font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+  font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
   text-transform: uppercase; }
   .btn-primary.focus, .btn-primary:focus {
     color: white;
@@ -568,7 +568,7 @@ ul.social-buttons {
   color: white;
   border-color: #fed136;
   background-color: #fed136;
-  font-family: 'Noto Sans SC', 'Noto Sans Oriya UI', "Microsoft JhengHei", "微軟正黑", Times New Roman, Sans-Serif;
+  font-family: "Noto Sans SC", "Noto Sans Oriya UI", "Microsoft JhengHei", "微軟正黑", "Times New Roman", "Sans-Serif";
   text-transform: uppercase; }
   .btn-xl.focus, .btn-xl:focus {
     color: white;
