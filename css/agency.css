@@ -63,7 +63,7 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #fed136; }
+  -webkit-tap-highlight-color: #A40001; }
 
 #mainNav {
   background-color: #222222; }
@@ -72,22 +72,22 @@ body {
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: white;
+    color: A40001;
     border: 0;
     background-color: #fed136;
     font-family: "Noto Sans SC", "Noto Sans SC Sliced", "Microsoft YaHei", "微軟雅黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
   #mainNav .navbar-brand {
-    color: #fed136;
+    color: #A40001;
     font-family: "Noto Sans SC", "Noto Sans SC Sliced", "Microsoft YaHei", "微軟雅黑", "Times New Roman", "Sans-Serif"; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-      color: #fec503; }
+      color: #A40001; }
   #mainNav .navbar-nav .nav-item .nav-link {
     font-size: 90%;
     font-weight: 400;
     padding: 0.75em 0;
     letter-spacing: 1px;
-    color: white;
+    color: A40001;
     font-family: "Noto Sans SC", "Noto Sans SC Sliced", "Microsoft YaHei", "微軟雅黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
