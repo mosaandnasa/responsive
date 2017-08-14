@@ -72,26 +72,26 @@ body {
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: A40001;
+    color: fed136;
     border: 0;
     background-color: #fed136;
     font-family: "Noto Sans SC", "Noto Sans SC Sliced", "Microsoft YaHei", "微軟雅黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
   #mainNav .navbar-brand {
-    color: #A40001;
+    color: #fed136;
     font-family: "Noto Sans SC", "Noto Sans SC Sliced", "Microsoft YaHei", "微軟雅黑", "Times New Roman", "Sans-Serif"; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-      color: #A40001; }
+      color: #fed136; }
   #mainNav .navbar-nav .nav-item .nav-link {
     font-size: 90%;
     font-weight: 400;
     padding: 0.75em 0;
     letter-spacing: 1px;
-    color: A40001;
+    color: fed136;
     font-family: "Noto Sans SC", "Noto Sans SC Sliced", "Microsoft YaHei", "微軟雅黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-      color: #fed136; }
+      color: #ffffff; }
 
 @media (min-width: 992px) {
   #mainNav {
@@ -119,7 +119,7 @@ body {
 
 header.masthead {
   text-align: center;
-  color: FF3012;
+  color: fed136;
   background-image: url("https://github.com/mosaandnasa/responsive/blob/master/img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
