@@ -87,7 +87,7 @@ body {
     font-weight: 400;
     padding: 0.75em 0;
     letter-spacing: 1px;
-    color: fed136;
+    color: #fed136;
     font-family: "Noto Sans SC", "Noto Sans SC Sliced", "Microsoft YaHei", "微軟雅黑", "Times New Roman", "Sans-Serif";
     text-transform: uppercase; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
